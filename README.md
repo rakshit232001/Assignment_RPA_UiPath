@@ -3,9 +3,10 @@ Update employee salary using a reference sheet as per employee skill and exp. Af
 
 The bot performs the complete end-to-end process — from data extraction to transformation, report creation, and communication, all built using **UiPath Studio** and deployed on **UiPath Orchestrator**.
 
-## Application and tools used
-
-
+## Table of Content
+- [Detailed Process Map](https://github.com/rakshit232001/Assignment_RPA_UiPath#-detailed-process-map)
+- [Trigger Configuration (Orchestrator)](https://github.com/rakshit232001/Assignment_RPA_UiPath#-trigger-configuration-orchestrator)
+- [Documentation](https://github.com/rakshit232001/Assignment_RPA_UiPath#documentation)
 
 ## 🧩 Detailed Process map
 
@@ -67,9 +68,9 @@ The bot performs the complete end-to-end process — from data extraction to tra
 
 | Document/File                  | Description                                                         | Link/Path                        |
 |-------------------------------|---------------------------------------------------------------------|----------------------------------|
-| **PDD**                 | The main UiPath automation workflow                                | [PDD](https://github.com/rakshit232001/Assignment_RPA_UiPath/blob/main/Process%20Definition%20Document%20(PDD).docx) |
+| **PDD**                 | The Process Design Document for the process                              | [PDD](https://github.com/rakshit232001/Assignment_RPA_UiPath/blob/main/Process%20Definition%20Document%20(PDD).docx) |
 | **HLSD_Diagram.png**          | High-Level Solution Design diagram showing overall architecture     | [HLSD.png](https://github.com/rakshit232001/Assignment_RPA_UiPath/blob/main/HLD.png)  |
 | **Trigger_Screenshot.png**    | Screenshot of the scheduled trigger setup in Orchestrator           |[Image](https://github.com/rakshit232001/Assignment_RPA_UiPath/blob/main/Trigger_Screenshot.png)|
 | **Process_Deployment_Screenshot.png** | Screenshot of the bot deployed in Orchestrator           | [Image](https://github.com/rakshit232001/Assignment_RPA_UiPath/blob/main/Process_Deployment_Screenshot.png) |
-| **Automate Solution** | |[Source Code](https://github.com/rakshit232001/Assignment_RPA_UiPath/tree/main/Assignment)|
+| **Automate Solution** | Automation Source Code |[Source Code](https://github.com/rakshit232001/Assignment_RPA_UiPath/tree/main/Assignment)|
 

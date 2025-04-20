@@ -3,11 +3,6 @@ Update employee salary using a reference sheet as per employee skill and exp. Af
 
 The bot performs the complete end-to-end process — from data extraction to transformation, report creation, and communication, all built using **UiPath Studio** and deployed on **UiPath Orchestrator**.
 
-## Table of Content
-- [Detailed Process Map](https://github.com/rakshit232001/Assignment_RPA_UiPath#-detailed-process-map)
-- [Trigger Configuration (Orchestrator)](https://github.com/rakshit232001/Assignment_RPA_UiPath#-trigger-configuration-orchestrator)
-- [Documentation](https://github.com/rakshit232001/Assignment_RPA_UiPath#documentation)
-
 ## 🧩 Detailed Process map
 
 ![HLD](https://github.com/user-attachments/assets/1b108097-61f4-44e4-a7a0-6379baa75a11)

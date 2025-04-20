@@ -255,7 +255,7 @@
                                                       </scg:Dictionary>
                                                     </sap:WorkflowViewStateService.ViewState>
                                                   </ueab:WriteCellX>
-                                                  <Delay Duration="00:00:03" sap:VirtualizedContainerService.HintSize="433.6,113.6" sap2010:WorkflowViewState.IdRef="Delay_1" />
+                                                  <Delay Duration="00:00:06" sap:VirtualizedContainerService.HintSize="433.6,113.6" sap2010:WorkflowViewState.IdRef="Delay_1" />
                                                 </Sequence>
                                               </ActivityAction>
                                             </ueab:ExcelApplicationCard.Body>

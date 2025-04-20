@@ -7,7 +7,7 @@ The bot performs the complete end-to-end process — from data extraction to tra
 
 | Document/File                  | Description                                                         | Link/Path                        |
 |-------------------------------|---------------------------------------------------------------------|----------------------------------|
-| **PDD**                 | The Process Design Document for the process                              | [PDD](https://github.com/rakshit232001/Assignment_RPA_UiPath/blob/main/Process%20Definition%20Document%20(PDD).docx) |
+| **PDD**                 | The Process Design Document for the process                              | [PDD](https://github.com/rakshit232001/Assignment_RPA_UiPath/blob/main/Process%20Definition%20Document%20(PDD).pdf)|
 | **HLSD_Diagram.png**          | High-Level Solution Design diagram showing overall architecture     | [HLSD.png](https://github.com/rakshit232001/Assignment_RPA_UiPath/blob/main/HLSD.png)  |
 | **Trigger_Screenshot.png**    | Screenshot of the scheduled trigger setup in Orchestrator           |[Image](https://github.com/rakshit232001/Assignment_RPA_UiPath/blob/main/Trigger_Screenshot.png)|
 | **Process_Deployment_Screenshot.png** | Screenshot of the bot deployed in Orchestrator           | [Image](https://github.com/rakshit232001/Assignment_RPA_UiPath/blob/main/Process_Deployment_Screenshot.png) |

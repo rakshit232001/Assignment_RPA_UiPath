@@ -12,7 +12,7 @@ The bot performs the complete end-to-end process — from data extraction to tra
 | **Trigger_Screenshot.png**    | Screenshot of the scheduled trigger setup in Orchestrator           |[Image](https://github.com/rakshit232001/Assignment_RPA_UiPath/blob/main/Trigger_Screenshot.png)|
 | **Process_Deployment_Screenshot.png** | Screenshot of the bot deployed in Orchestrator           | [Image](https://github.com/rakshit232001/Assignment_RPA_UiPath/blob/main/Process_Deployment_Screenshot.png) |
 | **Automate Solution** | Automation Source Code |[Source Code](https://github.com/rakshit232001/Assignment_RPA_UiPath/tree/main/Employee%20Pay%20Adjustment%20Process)|
-| **Assignment Report** | PDF for assignment report | [PDF](https://github.com/rakshit232001/Assignment_RPA_UiPath/blob/main/Assignment_Report.pdf)|
+| **Assignment Report** | PDF for assignment report | [PDF](https://github.com/rakshit232001/Assignment_RPA_UiPath/blob/main/Assignment%20Report.pdf)|
 
 ## 🧩 Detailed Process map
 
